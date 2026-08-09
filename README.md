@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1108-defanging-an-ip-address) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
