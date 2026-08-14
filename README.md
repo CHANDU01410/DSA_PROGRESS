@@ -23,6 +23,7 @@
 | [0344-reverse-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -43,10 +44,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
