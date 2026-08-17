@@ -37,6 +37,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1539-kth-missing-positive-number) |
 ## Stack
 |  |
 | ------- |
