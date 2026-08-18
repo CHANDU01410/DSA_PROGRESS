@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0162-find-peak-element) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0162-find-peak-element) |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
