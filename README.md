@@ -22,6 +22,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
@@ -56,11 +57,13 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
