@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
