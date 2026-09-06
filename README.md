@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0507-perfect-number) |
 ## Linked List
 |  |
 | ------- |
