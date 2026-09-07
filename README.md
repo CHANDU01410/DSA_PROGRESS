@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
@@ -15,6 +16,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
 ## Enumeration
