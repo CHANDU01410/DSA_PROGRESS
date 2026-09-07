@@ -40,6 +40,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -86,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
