@@ -19,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0344-reverse-string) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0014-longest-common-prefix) |
@@ -152,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
