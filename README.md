@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
