@@ -21,6 +21,7 @@
 | [0061-rotate-list](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1108-defanging-an-ip-address) |
