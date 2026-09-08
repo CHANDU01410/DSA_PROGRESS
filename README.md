@@ -28,6 +28,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1539-kth-missing-positive-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
