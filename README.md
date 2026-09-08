@@ -14,6 +14,7 @@
 | [0507-perfect-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0050-powx-n](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1922-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
