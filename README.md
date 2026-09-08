@@ -55,6 +55,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0136-single-number) |
@@ -114,6 +115,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
