@@ -72,6 +72,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -85,6 +86,7 @@
 | [0162-find-peak-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1539-kth-missing-positive-number) |
 ## Stack
 |  |
@@ -172,10 +174,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
