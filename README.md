@@ -73,6 +73,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -113,6 +114,7 @@
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -179,12 +181,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
