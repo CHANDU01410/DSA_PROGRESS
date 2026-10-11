@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
