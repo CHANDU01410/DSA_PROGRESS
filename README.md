@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0204-count-primes) |
@@ -64,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0066-plus-one) |
@@ -140,6 +142,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
