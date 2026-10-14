@@ -80,6 +80,7 @@
 | [0152-maximum-product-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -123,6 +124,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0387-first-unique-character-in-a-string) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -237,6 +241,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -249,4 +254,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
