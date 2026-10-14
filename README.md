@@ -69,6 +69,7 @@
 | [0053-maximum-subarray](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
@@ -121,6 +122,7 @@
 | [0001-two-sum](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0387-first-unique-character-in-a-string) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
