@@ -28,6 +28,7 @@
 | [0005-longest-palindromic-substring](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0344-reverse-string) |
@@ -71,6 +72,7 @@
 | [0066-plus-one](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0118-pascals-triangle) |
@@ -137,6 +139,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
@@ -258,4 +261,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
