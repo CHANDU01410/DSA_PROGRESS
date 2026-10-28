@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1903-largest-odd-number-in-string) |
@@ -86,6 +87,7 @@
 | [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
@@ -105,6 +107,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/1539-kth-missing-positive-number) |
@@ -131,6 +134,7 @@
 | [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
@@ -145,6 +149,7 @@
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -168,6 +173,7 @@
 | ------- |
 | [0136-single-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
