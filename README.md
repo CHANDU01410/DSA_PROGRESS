@@ -31,6 +31,7 @@
 | [0075-sort-colors](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -85,6 +86,7 @@
 | [0169-majority-element](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/CHANDU01410/DSA_PROGRESS/tree/master/0930-binary-subarrays-with-sum) |
